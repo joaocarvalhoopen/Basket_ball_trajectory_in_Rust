@@ -1,0 +1,95 @@
+<svg version="1.1"
+baseProfile="full"
+width="500.00" height="300.00"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="black" />
+<circle cx="0.00" cy="224.11" r="2.00" fill="blue" />
+<circle cx="13.51" cy="202.87" r="2.00" fill="blue" />
+<circle cx="27.03" cy="182.90" r="2.00" fill="blue" />
+<circle cx="40.54" cy="164.22" r="2.00" fill="blue" />
+<circle cx="54.05" cy="146.82" r="2.00" fill="blue" />
+<circle cx="67.57" cy="130.70" r="2.00" fill="blue" />
+<circle cx="81.08" cy="115.87" r="2.00" fill="blue" />
+<circle cx="94.59" cy="102.32" r="2.00" fill="blue" />
+<circle cx="108.11" cy="90.05" r="2.00" fill="blue" />
+<circle cx="121.62" cy="79.07" r="2.00" fill="blue" />
+<circle cx="135.14" cy="69.36" r="2.00" fill="blue" />
+<circle cx="148.65" cy="60.94" r="2.00" fill="blue" />
+<circle cx="162.16" cy="53.81" r="2.00" fill="blue" />
+<circle cx="175.68" cy="47.95" r="2.00" fill="blue" />
+<circle cx="189.19" cy="43.38" r="2.00" fill="blue" />
+<circle cx="202.70" cy="40.09" r="2.00" fill="blue" />
+<circle cx="216.22" cy="38.09" r="2.00" fill="blue" />
+<circle cx="229.73" cy="37.36" r="2.00" fill="blue" />
+<circle cx="243.24" cy="37.92" r="2.00" fill="blue" />
+<circle cx="256.76" cy="39.76" r="2.00" fill="blue" />
+<circle cx="270.27" cy="42.89" r="2.00" fill="blue" />
+<circle cx="283.78" cy="47.30" r="2.00" fill="blue" />
+<circle cx="297.30" cy="52.99" r="2.00" fill="blue" />
+<circle cx="310.81" cy="59.96" r="2.00" fill="blue" />
+<circle cx="324.32" cy="68.22" r="2.00" fill="blue" />
+<circle cx="337.84" cy="77.76" r="2.00" fill="blue" />
+<circle cx="351.35" cy="88.58" r="2.00" fill="blue" />
+<circle cx="364.86" cy="100.68" r="2.00" fill="blue" />
+<circle cx="378.38" cy="114.07" r="2.00" fill="blue" />
+<circle cx="391.89" cy="128.74" r="2.00" fill="blue" />
+<circle cx="405.41" cy="144.69" r="2.00" fill="green" />
+<circle cx="418.92" cy="161.93" r="2.00" fill="blue" />
+<circle cx="432.43" cy="180.45" r="2.00" fill="blue" />
+<circle cx="445.95" cy="200.25" r="2.00" fill="blue" />
+<circle cx="459.46" cy="221.33" r="2.00" fill="blue" />
+<circle cx="472.97" cy="243.70" r="2.00" fill="blue" />
+<circle cx="486.49" cy="267.35" r="2.00" fill="blue" />
+<circle cx="500.00" cy="292.28" r="2.00" fill="blue" />
+<rect x="394.73" y="143.70" width="20.00" height="4.00" style="fill:green;stroke:green;stroke-width:1.00" />
+<path id="motionPath" fill="none" d="M0.00,224.11
+L0.00,224.11
+L13.51,202.87
+L27.03,182.90
+L40.54,164.22
+L54.05,146.82
+L67.57,130.70
+L81.08,115.87
+L94.59,102.32
+L108.11,90.05
+L121.62,79.07
+L135.14,69.36
+L148.65,60.94
+L162.16,53.81
+L175.68,47.95
+L189.19,43.38
+L202.70,40.09
+L216.22,38.09
+L229.73,37.36
+L243.24,37.92
+L256.76,39.76
+L270.27,42.89
+L283.78,47.30
+L297.30,52.99
+L310.81,59.96
+L324.32,68.22
+L337.84,77.76
+L351.35,88.58
+L364.86,100.68
+L378.38,114.07
+L391.89,128.74
+L405.41,144.69
+L418.92,161.93
+L432.43,180.45
+L445.95,200.25
+L459.46,221.33
+L472.97,243.70
+L486.49,267.35
+L500.00,292.28
+" />
+<circle id="circle" cx="0.00" cy="0.00" r="3" fill="yellow" />
+<animateMotion
+                xlink:href="#circle"
+                dur="3s"
+                begin="0s"
+                fill="freeze"
+                repeatCount="indefinite">
+                <mpath xlink:href="#motionPath" />
+            </animateMotion>
+</svg>
